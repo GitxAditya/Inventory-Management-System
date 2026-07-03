@@ -1,6 +1,6 @@
 # Inventory-Management-System
 A professional MySQL-based Inventory Management System featuring advanced SQL, stored procedures, triggers, views, transactions, business automation, and executive business reports.
-# 📦 Inventory Management System (MySQL)
+#  Inventory Management System (MySQL)
 
 A professional Inventory Management System built entirely in **MySQL** to simulate how real businesses manage inventory, suppliers, purchases, sales, stock movement, and business reporting.
 
@@ -8,7 +8,7 @@ This project demonstrates advanced SQL concepts including **Stored Procedures, T
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project manages the complete inventory lifecycle:
 
@@ -25,7 +25,7 @@ The database is designed to mimic how inventory systems work in real companies.
 
 ---
 
-# 🚀 Features
+#  Features
 
 ### Inventory Management
 
@@ -59,7 +59,7 @@ The database is designed to mimic how inventory systems work in real companies.
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - MySQL 8
 - SQL
@@ -67,7 +67,7 @@ The database is designed to mimic how inventory systems work in real companies.
 
 ---
 
-# 🗂 Database Structure
+#  Database Structure
 
 ## Tables
 
@@ -82,7 +82,7 @@ The database is designed to mimic how inventory systems work in real companies.
 
 ---
 
-# 📊 Dataset
+#  Dataset
 
 This project contains a realistic dataset created for analytical purposes.
 
@@ -97,7 +97,7 @@ This project contains a realistic dataset created for analytical purposes.
 
 ---
 
-# 📈 SQL Concepts Covered
+#  SQL Concepts Covered
 
 ## SQL Fundamentals
 
@@ -173,7 +173,7 @@ This project contains a realistic dataset created for analytical purposes.
 
 ---
 
-# 📊 Business Reports
+#  Business Reports
 
 This project includes 10 professional business reports.
 
@@ -190,7 +190,7 @@ This project includes 10 professional business reports.
 
 ---
 
-# 📸 Project Screenshots
+#  Project Screenshots
 
 Screenshots of important outputs are available inside the **screenshots/** folder.
 
@@ -204,7 +204,7 @@ They include:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 Inventory-Management-System
@@ -229,7 +229,7 @@ Inventory-Management-System
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 This project helped me develop practical experience in:
 
@@ -245,7 +245,7 @@ This project helped me develop practical experience in:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Aditya**
 
@@ -263,8 +263,8 @@ Currently building projects in:
 
 ---
 
-# ⭐ Project Status
+#  Project Status
 
-✅ Completed
+ Completed
 
 This project is part of my Data Science Portfolio and demonstrates practical SQL skills through a realistic Inventory Management System.
